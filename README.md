@@ -219,8 +219,8 @@ Interactive docs: `http://localhost:8000/docs`
 
 ## Contact
 
-Built by **Ganesh Suni Jathar**
+Built by **Ganesh Jathar**
 
-[LinkedIn](https://linkedin.com/in/your-handle) · [GitHub](https://github.com/your-handle)
+[LinkedIn](https://www.linkedin.com/in/ganesh-jathar-a4a92a169/) · [GitHub](https://github.com/Ganesh-Jathar-Git)
 
 *Built for Japan's eldercare crisis — 30% of the population is over 65, and the care system is running out of time.*
