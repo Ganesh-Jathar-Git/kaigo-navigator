@@ -167,7 +167,7 @@ The scraper pulls directly from MHLW's 介護サービス情報公表システ�
 ### Backend
 
 ```bash
-git clone https://github.com/your-handle/kaigo-navigator.git
+git clone https://github.com/Ganesh-Jathar-Git/kaigo-navigator
 cd kaigo-navigator
 
 python -m venv .venv && source .venv/bin/activate
